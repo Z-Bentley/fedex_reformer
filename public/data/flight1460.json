@@ -5,23 +5,23 @@
         { 
             "id": 0, 
             "name": "Aircraft Arrival", 
-            "schedule": "06:00", 
+            "schedule": "05:59", 
             "actual": "6:29", 
-            "variance": "+29" 
+            "variance": "+30" 
         },
         { 
             "id": 1, 
             "name": "Sort Start", 
-            "schedule": "06:20", 
+            "schedule": "06:19", 
             "actual": "6:43", 
-            "variance": "+23" 
+            "variance": "+24" 
         },
         { 
             "id": 2,
             "name": "Sort End", 
-            "schedule": "06:40", 
+            "schedule": "06:39", 
             "actual": "7:10", 
-            "variance": "+30" 
+            "variance": "+31" 
         }
     ]
 }

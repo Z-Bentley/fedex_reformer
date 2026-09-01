@@ -1,79 +1,94 @@
 [
     {
         "id": 1,
-        "destination": "OXD02",
-        "schedule": "06:41",
-        "actual": "07:25",
-        "variance": "+44"
-    },
-    {
-        "id": 2,
-        "destination": "CVG02",
-        "schedule": "06:41",
-        "actual": "07:25",
-        "variance": "+44"
-    },
-    {
-        "id": 3,
-        "destination": "LUK02 RT",
-        "schedule": "06:41",
-        "actual": "07:25",
-        "variance": "+44"
-    },
-    {
-        "id": 4,
-        "destination": "LUK19",
-        "schedule": "07:10",
-        "actual": "07:54",
-        "variance": "+44"
-    },
-    {
-        "id": 5,
-        "destination": "CVG10 RT",
-        "schedule": "07:25",
-        "actual": "06:41",
-        "variance": "-44"
-    },
-        {
-        "id": 6,
-        "destination": "FFT19",
-        "schedule": "07:10",
-        "actual": "07:54",
-        "variance": "+44"
-    },
-    {
-        "id": 7,
-        "destination": "OXD19",
-        "schedule": "07:10",
-        "actual": "07:54",
-        "variance": "+44"
-    },
-    {
-        "id": 8,
-        "destination": "CVG19",
-        "schedule": "07:10",
-        "actual": "07:54",
-        "variance": "+44"
-    },
-    {
-        "id": 9,
         "destination": "Docs LUK77/CVG77/OXD77/FFT77",
         "schedule": "06:30",
         "actual": "07:14",
         "variance": "+44"
     },
     {
+        "id": 2,
+        "destination": "HAO18",
+        "schedule": "06:35",
+        "actual": "07:19",
+        "variance": "+44"
+    },
+    {
+        "id": 3,
+        "destination": "CVG18",
+        "schedule": "06:35",
+        "actual": "07:19",
+        "variance": "+44"
+    },
+    {
+        "id": 4,
+        "destination": "LUK18",
+        "schedule": "06:35",
+        "actual": "07:19",
+        "variance": "+44"
+    },
+    {
+        "id": 5,
+        "destination": "FFT18",
+        "schedule": "06:35",
+        "actual": "07:19",
+        "variance": "+44"
+    },
+        {
+        "id": 6,
+        "destination": "LUK18",
+        "schedule": "06:35",
+        "actual": "07:19",
+        "variance": "+44"
+    },
+    {
+        "id": 7,
+        "destination": "CVG19",
+        "schedule": "07:17",
+        "actual": "07:51",
+        "variance": "+44"
+    },
+    {
+        "id": 8,
+        "destination": "CVG19",
+        "schedule": "07:17",
+        "actual": "07:51",
+        "variance": "+44"
+    },
+    
+    {
         "id": 10,
-        "destination": "FFT41 (PDJA)",
-        "schedule": "07:20",
+        "destination": "OXD19",
+        "schedule": "07:17",
+        "actual": "07:51",
+        "variance": "+44"
+    },
+    {
+        "id": 11,
+        "destination": "FFT19",
+        "schedule": "07:17",
+        "actual": "07:51",
+        "variance": "+44"
+    },
+    {
+        "id": 12,
+        "destination": "CVG10 RT",
+        "schedule": "07:25",
         "actual": "06:41",
         "variance": "-44"
     },
-{
-        "id": 11,
-        "destination": "NKYG2",
-        "schedule": "07:30",
-        "actual": "07:34",
-        "variance": "+4"
+    {
+        "id": 13,
+        "destination": "HAO19",
+        "schedule": "07:17",
+        "actual": "07:51",
+        "variance": "+44"
+    },
+    {
+        "id": 14,
+        "destination": "LUK02",
+        "schedule": "06:41",
+        "actual": "07:25",
+        "variance": "+44"
     }
 ]
