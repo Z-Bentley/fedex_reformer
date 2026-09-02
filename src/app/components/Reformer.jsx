@@ -503,7 +503,7 @@ export default function NormalReformer({ data, totalWeight, heavyWeight, express
 
                         {/* Actual Pounds Calc */}
                         <td className={styles.td}>
-                            <p>Plan= 6,700lbs</p>
+                            <p>Plan= 11,440lbs</p>
                             <p>Actual: 
                                 <input 
                                     type="text" 
