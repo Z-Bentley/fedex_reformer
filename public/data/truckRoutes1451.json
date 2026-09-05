@@ -55,6 +55,27 @@
         "actual": "07:20",
         "variance": "-5"
     },
+{
+        "id": 10,
+        "destination": "CVG52",
+        "schedule": "07:25",
+        "actual": "07:20",
+        "variance": "-5"
+    },
+{
+        "id": 11,
+        "destination": "FFT41",
+        "schedule": "07:25",
+        "actual": "07:20",
+        "variance": "-5"
+    },
+{
+        "id": 12,
+        "destination": "LUK51",
+        "schedule": "07:25",
+        "actual": "07:20",
+        "variance": "-5"
+    },
     {
         "id": 9,
         "destination": "CVG70 (NCING)",
