@@ -9,37 +9,30 @@
     {
         "id": 2,
         "destination": "CVG59 SDR",
-        "schedule": "07:20",
+        "schedule": "07:25",
         "actual": "07:22",
-        "variance": "+2"
+        "variance": "-3"
     },
     {
         "id": 3,
         "destination": "OXD59 SDR",
-        "schedule": "07:20",
+        "schedule": "07:25",
         "actual": "07:00",
-        "variance": "-20"
+        "variance": "-25"
     },
     {
         "id": 4,
         "destination": "LUK59 SDR",
-        "schedule": "07:20",
+        "schedule": "07:25",
         "actual": "07:25",
-        "variance": "+5"
+        "variance": "+0"
     },
     {
         "id": 5,
-        "destination": "CVG53 RT",
-        "schedule": "07:20",
-        "actual": "07:05",
-        "variance": "-15"
-    },
-    {
-        "id": 6,
-        "destination": "LUK51 RT",
-        "schedule": "07:20",
+        "destination": "AXV59 SDR",
+        "schedule": "07:25",
         "actual": "07:25",
-        "variance": "+5"
+        "variance": "+0"
     },
     {
         "id": 7,
@@ -49,11 +42,18 @@
         "variance": "+25"
     },
     {
-        "id": 8,
-        "destination": "FFT41 (PDJA)",
-        "schedule": "07:20",
+        "id": 6,
+        "destination": "HAO59 SDR",
+        "schedule": "07:25",
         "actual": "07:20",
-        "variance": "+0"
+        "variance": "-5"
+    },
+{
+        "id": 8,
+        "destination": "FFT59 SDR",
+        "schedule": "07:25",
+        "actual": "07:20",
+        "variance": "-5"
     },
     {
         "id": 9,
